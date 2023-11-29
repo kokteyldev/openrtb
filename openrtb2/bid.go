@@ -3,7 +3,7 @@ package openrtb2
 import (
 	"encoding/json"
 
-	"github.com/prebid/openrtb/v20/adcom1"
+	"github.com/kokteyldev/openrtb/v20/adcom1"
 )
 
 // 4.3.3 Object: Bid

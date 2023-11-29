@@ -1,4 +1,4 @@
-module github.com/prebid/openrtb/v20
+module github.com/kokteyldev/openrtb/v20
 
 go 1.16
 
