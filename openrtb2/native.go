@@ -39,7 +39,7 @@ type Native struct {
 	//   For Native 1.1 and higher, this is a JSON-encoded string
 	//   consisting of an unnamed root object which is itself the Native
 	//   Markup Request Object, section 4.1 of OpenRTB Native 1.1+.
-	Request string `json:"request"`
+	Request string `json:"request,omitempty"`
 
 	// Attribute:
 	//   ver
